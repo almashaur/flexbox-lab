@@ -81,7 +81,6 @@ nav button {
 
 .card-footer {
   font-size: 14px;
-
 }
 
 .card-footer * {
@@ -107,6 +106,13 @@ nav button {
   color: black;
   border-radius: 50px;
   padding: 6px 15px;
+}
+
+#destinations,
+#actions {
+  display: flex;
+  gap: 16px;
+  align-items: center;
 }
 
 
